@@ -1,5 +1,5 @@
 # jamf-extension-attributes
-This is a collection of scripts used to create extension attributes for computer inventory records in a Jamf Pro environment
+This is a collection of scripts used to create [extension attributes](https://learn.jamf.com/bundle/jamf-pro-documentation-current/page/Computer_Extension_Attributes.html) for computer inventory records in a Jamf Pro environment
 
 | Filename | Description |
 | ----------- | ----------- |
