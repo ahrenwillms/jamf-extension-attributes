@@ -3,5 +3,6 @@ This is a collection of scripts used to create [extension attributes](https://le
 
 | Filename | Description |
 | ----------- | ----------- |
-| [visual_studio_code_extensions.sh](https://github.com/ahrenwillms/jamf-extension-attributes/blob/main/visual_studio_code_extensions.sh) | Returns the installed Visual Studio Code extensions and their version numbers for the currently logged in user |
+| [lightspeed_filter_agent_version.sh](https://github.com/ahrenwillms/jamf-extension-attributes/blob/main/lightspeed_filter_agent_version.sh) | Returns the currently installed version of the filter agent from [Lightspeed Systems](https://www.lightspeedsystems.com/products/lightspeed-filter/) |
 | [find_my_mac_status.sh](https://github.com/ahrenwillms/jamf-extension-attributes/blob/main/find_my_mac_status.sh) | Returns a string stating whether Find My Mac is enabled or disabled |
+| [visual_studio_code_extensions.sh](https://github.com/ahrenwillms/jamf-extension-attributes/blob/main/visual_studio_code_extensions.sh) | Returns the installed Visual Studio Code extensions and their version numbers for the currently logged in user |
